@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-    res.send("Welcome to Demo App version 34.0");
+    res.send("Welcome to Demo App version 1.0");
 });
 
 app.listen(3000, () => {
