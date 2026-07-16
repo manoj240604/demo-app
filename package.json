@@ -1,0 +1,11 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "description": "Simple Demo App for DevOps",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
